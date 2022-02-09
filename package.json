@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreya4390/NodeJs-task1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreya4390/NodeJs-task1/issues"
+  },
+  "homepage": "https://github.com/Shreya4390/NodeJs-task1#readme",
+  "dependencies": {
+    "date-and-time": "^2.1.0",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2"
+  }
+}

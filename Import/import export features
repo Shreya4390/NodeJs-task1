@@ -1,0 +1,10 @@
+# Importing and exporting files are important parts of any programming language. 
+Importing functions or modules enhances the reusability of code. When the application 
+grows in size, maintaining a single file with all the functions and logic becomes difficult.
+ It also hinders the process of debugging. Therefore, it is good practice to create separate files 
+ for specific functions and later import them as per requirement.
+
+Node.js also allows importing and exporting functions and modules. Functions in 
+one module can be imported and called in other modules saving the effort to copy function 
+definitions into the other files. The module can be edited or debugged separately making it easier to add or remove features.
+

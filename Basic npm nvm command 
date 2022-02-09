@@ -1,0 +1,34 @@
+# https://phoenixnap.com/kb/update-node-js-version
+NPM - node package manager
+NVM - node version manager
+
+# The Latest release of Npm 
+
+npm install npm@latest -g
+
+# Checking your version of npm and Node.js
+
+node -v
+npm -v
+
+# Node installation process installs npm in a directory with local permissions and can cause permissions errors when you run npm packages globally.
+
+npm install -g npm
+
+# Using a Node version manager to install Node.js and npm
+# Its allow to install and switch between multiple version.
+
+# OSX or Linux Node version managers
+
+nvm
+n
+
+# Windows Node version managers
+
+nodist
+nvm-windows
+
+# Using a Node installer to install Node.js and npm
+
+Windows     Node.js installer
+Linux       NodeSource installer
